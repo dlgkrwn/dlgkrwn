@@ -53,7 +53,8 @@
   <br/>
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lhj7264)](https://solved.ac/lhj7264/)
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+
+  e-mail : oykg1236@gmail.com
   
 </div>
 
