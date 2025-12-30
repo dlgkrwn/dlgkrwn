@@ -51,17 +51,8 @@
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white">
   <br/>
   <br/>
-  
-  ## 🤔 Github Stats
-  [![dlgkrwn STUDYRROM GitHub stats](https://github-readme-stats.vercel.app/api?username=dlgkrwn/STUDTROOM)]
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-  <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://velog.io/@somm)
-</div>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lhj7264)](https://solved.ac/lhj7264/)
   
 </div>
 
