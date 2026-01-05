@@ -9,7 +9,7 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a 24-year-old undergraduate student majoring in Big Data.<br/>
+  #### :raising_hand: I am a 25-year-old undergraduate student majoring in Big Data.<br/>
   #### :fire: I have experience in data analysis using Python and R, with a basic understanding of SQL for data handling.<br/>
   #### :mortar_board: My goal is to grow as a data analyst who contributes to data-driven decision-making.
   <br/>
