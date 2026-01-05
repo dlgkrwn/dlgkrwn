@@ -14,7 +14,21 @@
   #### :mortar_board: My goal is to grow as a data analyst who contributes to data-driven decision-making.
   <br/>
   <br/>
+
+  ## 💼 경력
+  ### 2024.02~2024.07
+  💻 테킷 멋쟁이사자 / 데이터 분석 부트캠
   
+  ### 2024.08~2024.10
+  🏢 알체라 / Data Assistant
+  - 자율주행 이미지 라벨링
+  - 자격증 시험지 이미지 라벨링
+  - html 라벨링
+
+  ### 2025.10
+  🏢 셀렉트 스타 / Data Assistant
+  - LG 통화 비서 익시오 텍스트 라벨링
+
   ## 🧱 Tech Stack
   ### Language
   <!--Python-->
